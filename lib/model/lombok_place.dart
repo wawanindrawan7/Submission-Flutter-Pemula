@@ -42,5 +42,12 @@ var lombokPlaceList = [
       rate: '5,0',
       description:
           'Salah satu pantai yang populer di Lombok, yaitu Pantai Senggigi. Letaknya di Jalan Raya Senggigi, Batu Layar, Kabupaten Lombok Barat. Pantai Senggigi memiliki air laut yang biru dan jernih, sehingga sangat cocok untuk snorkeling dengan pemandangan bawah laut yang cantik. Pantai ini memiliki kondisi ombak yang cocok untuk berselancar, termasuk untuk pemula.',
-      imageAsset: 'images/4.jpg')
+      imageAsset: 'images/4.jpg'),
+  LombokPlace(
+      name: 'Senggigi Beach',
+      location: 'Lombok Baret',
+      rate: '5,0',
+      description:
+          'Salah satu pantai yang populer di Lombok, yaitu Pantai Senggigi. Letaknya di Jalan Raya Senggigi, Batu Layar, Kabupaten Lombok Barat. Pantai Senggigi memiliki air laut yang biru dan jernih, sehingga sangat cocok untuk snorkeling dengan pemandangan bawah laut yang cantik. Pantai ini memiliki kondisi ombak yang cocok untuk berselancar, termasuk untuk pemula.',
+      imageAsset: 'images/5.jpg')
 ];
